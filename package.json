@@ -9,14 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@heroicons/react": "v1",
     "@reduxjs/toolkit": "^1.8.6",
     "@tailwindcss/line-clamp": "^0.4.2",
     "firebase": "^9.12.1",
     "firebase-admin": "^11.2.0",
+    "heroicons": "v1",
     "next": "12.3.1",
     "react": "18.2.0",
+    "react-currency-formatter": "^1.1.0",
     "react-dom": "18.2.0",
-    "react-redux": "^8.0.4"
+    "react-redux": "^8.0.4",
+    "react-responsive-carousel": "^3.2.23"
   },
   "devDependencies": {
     "@types/node": "18.11.5",
